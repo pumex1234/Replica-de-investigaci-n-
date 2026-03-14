@@ -8,6 +8,20 @@ Este repositorio contiene todos los scripts, datos, cuadernos de Jupyter (Colab 
 
 El objetivo principal de este proyecto ha sido validar minuciosamente los resultados estructurales de proteínas descritos en la publicación original, recrear el entorno de experimentación, e iterar sobre los datos experimentales para generar los archivos PDF e imágenes con exactitud fidedigna.
 
+<p align="center">
+  <img src="MULTICOM4/imgs/MULTICOM4.png" alt="Arquitectura MULTICOM4" width="700">
+</p>
+
+## 📊 Resultados Gráficos y Validaciones
+
+A lo largo de la investigación, el repositorio genera gráficas analíticas como métricas GDT-TS, PTM y comparativas entre métodos. A continuación, ejemplos de los resultados obtenidos y alojados en la carpeta `verification_results/`:
+
+| Comparación AF2 vs AF3 | Análisis Conformacional (T1226) |
+| :---: | :---: |
+| <img src="verification_results/Fig5_AF2_vs_AF3_comparison.png" width="400"> | <img src="verification_results/T1226_conformation_analysis.png" width="400"> |
+| **Comparación de Métodos QA** | **Análisis de Dominios (T1266)** |
+| <img src="verification_results/Fig9_QA_Methods_comparison.png" width="400"> | <img src="verification_results/Fig8_T1266_MSA_domain_analysis.png" width="400"> |
+
 ## 📂 Estructura del Repositorio
 
 A continuación, una descripción general de los principales directorios y archivos:
