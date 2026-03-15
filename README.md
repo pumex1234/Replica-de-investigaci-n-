@@ -9,7 +9,9 @@ Este repositorio contiene todos los scripts, datos, cuadernos de Jupyter (Colab 
 El objetivo principal de este proyecto ha sido validar minuciosamente los resultados estructurales de proteínas descritos en la publicación original, recrear el entorno de experimentación, e iterar sobre los datos experimentales para generar los archivos PDF e imágenes con exactitud fidedigna.
 
 <p align="center">
-  <img src="assets/MULTICOM4.png" alt="Arquitectura MULTICOM4" width="700">
+  <h3>Arquitectura del Modelo (MULTICOM4) y Predicción Estructural 3D (T1226)</h3>
+  <img src="assets/MULTICOM4.png" alt="Arquitectura MULTICOM4" width="48%">
+  <img src="assets/proteina_T1226.png" alt="Estructura Proteica 3D" width="48%">
 </p>
 
 ## 📊 Resultados Gráficos y Validaciones
